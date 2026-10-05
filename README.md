@@ -20,7 +20,6 @@
 
 - 🎮 Ahora mismo: trabajando en varios proyectos (iré subiendo más)
 - 🌱 Aprendiendo: más cosas de programación y diseño pixel art
-- 🐰 Estética favorita: halftone, Game Boy y todo lo *creepy-cute*
 
 <details>
 <summary>✦ Un secreto (haz clic) ✦</summary>
