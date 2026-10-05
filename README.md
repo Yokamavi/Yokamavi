@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2b2a7a,100:4e59b1&height=200&section=header&text=Yokamavi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E2%9C%A6%20creepy-cute%20%C2%B7%20pixel%20%C2%B7%20c%C3%B3digo%20%E2%9C%A6&descSize=16&descAlignY=62&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2b2a7a,100:4e59b1&height=200&section=header&text=Yokamavi&fontColor=ffffff&fontSize=52&fontAlignY=45&animation=twinkling" width="100%"/>
 
 <img src="noche.gif" width="100%" alt="noche"/>
 
@@ -20,12 +20,25 @@
 
 - 🎮 Ahora mismo: trabajando en varios proyectos (iré subiendo más)
 - 🌱 Aprendiendo: más cosas de programación y diseño pixel art
+- 🐰 Estética favorita: halftone, Game Boy y todo lo *creepy-cute*
 
 <details>
 <summary>✦ Un secreto (haz clic) ✦</summary>
 <br/>
 El conejo del espiral me mira mientras programo. No sé si es buena señal.
 </details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,50:9fa8ff,100:0d0d2b&height=2" width="70%"/>
+</div>
+
+### 🔗 Mis redes
+
+<div align="center">
+  <a href="https://instagram.com/a4r'nn_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/yokamavi"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" alt="Discord"/></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31qtdidsfsoicvur5urhpgii7ol4"><img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="48" alt="Spotify"/></a>&nbsp;&nbsp;
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,50:9fa8ff,100:0d0d2b&height=2" width="70%"/>
