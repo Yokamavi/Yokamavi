@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2b2a7a,100:4e59b1&height=200&section=header&text=Yokamavi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E2%9C%A6%20creepy-cute%20%C2%B7%20pixel%20%C2%B7%20c%C3%B3digo%20%E2%9C%A6&descSize=16&descAlignY=62&animation=twinkling" width="100%"/>
 
-<img src="peluche.gif" width="260" alt="peluche"/>
+<img src="noche.gif" width="100%" alt="noche"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1500&color=9FA8FF&center=true&vCenter=true&width=640&height=45&lines=Hola%2C+soy+Yokamavi;Creo+cosas+nuevas+cada+d%C3%ADa;Videojuegos%2C+c%C3%B3digo+y+arte+pixel;Mirando+el+espiral+desde+2026" alt="typing"/>
 
