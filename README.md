@@ -4,7 +4,7 @@
 
 <img src="noche.gif" width="100%" alt="noche"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1500&color=9FA8FF&center=true&vCenter=true&width=640&height=45&lines=Hola%2C+soy+Yokamavi;Creo+cosas+nuevas+cada+d%C3%ADa;Videojuegos%2C+c%C3%B3digo+y+arte+pixel;Mirando+el+espiral+desde+2026" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1500&color=9FA8FF&center=true&vCenter=true&width=640&height=45&lines=Hola%2C+soy+Yokamavi;Creo+cosas+nuevas+cada+d%C3%ADa" alt="typing"/>
 
 <br/><br/>
 
