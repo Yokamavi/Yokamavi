@@ -19,7 +19,7 @@
 ### 🌀 Sobre mí
 
 - 🎮 Ahora mismo: trabajando en varios proyectos (iré subiendo más)
-- 🌱 Aprendiendo: más cosas de programación y diseño pixel art
+- 🌱 Aprendiendo: más cosas de programación.
 
 <details>
 <summary>✦ Un secreto (haz clic) ✦</summary>
