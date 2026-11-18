@@ -8,10 +8,6 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,git,linux&theme=dark" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,50:9fa8ff,100:0d0d2b&height=2" width="70%"/>
 
 </div>
