@@ -30,6 +30,7 @@ El conejo del espiral me mira mientras programo. No sé si es buena señal.
 ### 🔗 Mis redes
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/aaron-martins-vilas"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
   <a href="https://instagram.com/a4r'nn_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/yokamavi"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" alt="Discord"/></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/31qtdidsfsoicvur5urhpgii7ol4"><img src="https://skillicons.dev/icons?i=spotify&theme=dark" width="48" alt="Spotify"/></a>&nbsp;&nbsp;
